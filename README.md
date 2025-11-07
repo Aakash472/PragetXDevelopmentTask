@@ -8,7 +8,7 @@
 This repository contains a pixel-perfect implementation of the design provided by PragetX. The project is built with **React** and styled using **Tailwind CSS**.
 
 ## Live demo
-
+https://pragetxdevelopmenttask.vercel.app/
 
 ## Screenshot
 
